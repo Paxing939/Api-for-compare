@@ -1,0 +1,37 @@
+﻿  Compare.cpp
+D:\Work_25\WorkProjects\Compare\Compare\Compare.cpp(115,4): error C2065:  OPENFILENAME: необъявленный идентификатор
+D:\Work_25\WorkProjects\Compare\Compare\Compare.cpp(115,17): error C2146:  синтаксическая ошибка: отсутствие ";" перед идентификатором "Ofn"
+D:\Work_25\WorkProjects\Compare\Compare\Compare.cpp(115,17): error C2065:  Ofn: необъявленный идентификатор
+D:\Work_25\WorkProjects\Compare\Compare\Compare.cpp(121,12): error C2065:  Ofn: необъявленный идентификатор
+D:\Work_25\WorkProjects\Compare\Compare\Compare.cpp(121,27): error C2065:  OPENFILENAME: необъявленный идентификатор
+D:\Work_25\WorkProjects\Compare\Compare\Compare.cpp(122,4): error C2065:  Ofn: необъявленный идентификатор
+D:\Work_25\WorkProjects\Compare\Compare\Compare.cpp(122,29): error C2065:  OPENFILENAME: необъявленный идентификатор
+D:\Work_25\WorkProjects\Compare\Compare\Compare.cpp(123,4): error C2065:  Ofn: необъявленный идентификатор
+D:\Work_25\WorkProjects\Compare\Compare\Compare.cpp(123,16): error C2065:  OFN_FILEMUSTEXIST: необъявленный идентификатор
+D:\Work_25\WorkProjects\Compare\Compare\Compare.cpp(123,36): error C2065:  OFN_PATHMUSTEXIST: необъявленный идентификатор
+D:\Work_25\WorkProjects\Compare\Compare\Compare.cpp(123,56): error C2065:  OFN_HIDEREADONLY: необъявленный идентификатор
+D:\Work_25\WorkProjects\Compare\Compare\Compare.cpp(124,4): error C2065:  Ofn: необъявленный идентификатор
+D:\Work_25\WorkProjects\Compare\Compare\Compare.cpp(125,4): error C2065:  Ofn: необъявленный идентификатор
+D:\Work_25\WorkProjects\Compare\Compare\Compare.cpp(126,4): error C2065:  Ofn: необъявленный идентификатор
+D:\Work_25\WorkProjects\Compare\Compare\Compare.cpp(127,4): error C2065:  Ofn: необъявленный идентификатор
+D:\Work_25\WorkProjects\Compare\Compare\Compare.cpp(128,4): error C2065:  Ofn: необъявленный идентификатор
+D:\Work_25\WorkProjects\Compare\Compare\Compare.cpp(128,20): error C2065:  szFile: необъявленный идентификатор
+D:\Work_25\WorkProjects\Compare\Compare\Compare.cpp(129,4): error C2065:  Ofn: необъявленный идентификатор
+D:\Work_25\WorkProjects\Compare\Compare\Compare.cpp(129,26): error C2065:  szFile: необъявленный идентификатор
+D:\Work_25\WorkProjects\Compare\Compare\Compare.cpp(130,4): error C2065:  Ofn: необъявленный идентификатор
+D:\Work_25\WorkProjects\Compare\Compare\Compare.cpp(131,4): error C2065:  Ofn: необъявленный идентификатор
+D:\Work_25\WorkProjects\Compare\Compare\Compare.cpp(132,4): error C2065:  Ofn: необъявленный идентификатор
+D:\Work_25\WorkProjects\Compare\Compare\Compare.cpp(133,26): error C2065:  Ofn: необъявленный идентификатор
+D:\Work_25\WorkProjects\Compare\Compare\Compare.cpp(133,9): error C3861:  GetOpenFileName: идентификатор не найден
+D:\Work_25\WorkProjects\Compare\Compare\Compare.cpp(135,24): error C2065:  szFile: необъявленный идентификатор
+D:\Work_25\WorkProjects\Compare\Compare\Compare.cpp(135,32): error C2065:  szWCFile: необъявленный идентификатор
+D:\Work_25\WorkProjects\Compare\Compare\Compare.cpp(135,13): error C3861:  CtoWCoding: идентификатор не найден
+D:\Work_25\WorkProjects\Compare\Compare\Compare.cpp(150,29): error C2065:  szFile: необъявленный идентификатор
+D:\Work_25\WorkProjects\Compare\Compare\Compare.cpp(151,30): error C2065:  szFile: необъявленный идентификатор
+D:\Work_25\WorkProjects\Compare\Compare\Compare.cpp(142,4): error C2361:  пропуск инициализации "szDefExt" из-за метки "default"
+D:\Work_25\WorkProjects\Compare\Compare\Compare.cpp(119): message :   см. объявление "szDefExt"
+D:\Work_25\WorkProjects\Compare\Compare\Compare.cpp(142,4): error C2361:  пропуск инициализации "szFilter" из-за метки "default"
+D:\Work_25\WorkProjects\Compare\Compare\Compare.cpp(118): message :   см. объявление "szFilter"
+D:\Work_25\WorkProjects\Compare\Compare\Compare.cpp(142,4): error C2361:  пропуск инициализации "szFileTitle" из-за метки "default"
+D:\Work_25\WorkProjects\Compare\Compare\Compare.cpp(117): message :   см. объявление "szFileTitle"
+D:\Work_25\WorkProjects\Compare\Compare\Compare.cpp(299,12): warning C4244:  return: преобразование "WPARAM" в "int", возможна потеря данных

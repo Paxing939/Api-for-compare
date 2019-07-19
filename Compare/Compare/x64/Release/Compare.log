@@ -1,0 +1,9 @@
+﻿  Compare.cpp
+D:\Work_25\WorkProjects\Compare\Compare\Compare.cpp(109,40): warning C4101:  hOldBitmap1: неиспользованная локальная переменная
+D:\Work_25\WorkProjects\Compare\Compare\Compare.cpp(119,6): warning C4101:  StrLen: неиспользованная локальная переменная
+  Создание кода
+  1 of 303 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Compare.vcxproj -> D:\Work_25\WorkProjects\Compare\x64\Release\Compare.exe
